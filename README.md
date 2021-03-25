@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruchit1101
-- 👀 I’m interested in ...CODING STUFFS
+- 👀 I’m interested in ...CODING STUFFS(Basically in C/HTML/CSS)
 - 🌱 I’m currently learning .WEB DEVELOPMENT..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..ruchitraushan@gmail.com.
