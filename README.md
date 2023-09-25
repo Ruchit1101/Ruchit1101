@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ruchit raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchit raushan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ruchit-raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchit raushan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/newbiee_1107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="newbiee_1107" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lazy_guy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazy_guy11" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ruchitraushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ruchitraushan" height="30" width="40" /></a>
