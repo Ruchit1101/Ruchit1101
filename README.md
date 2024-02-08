@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ruchit-raushan/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AAXAPEw1lX5PRR81FDvzRmZpXAHaUqUY/view?usp=sharing](https://drive.google.com/file/d/1AAXAPEw1lX5PRR81FDvzRmZpXAHaUqUY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AAXAPEw1lX5PRR81FDvzRmZpXAHaUqUY/view?usp=sharing](https://drive.google.com/file/d/1NKMKP75jIpSdMok2vvssA4A7lvSI_AEv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
